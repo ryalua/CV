@@ -15,8 +15,7 @@ body {
 .info-content {
     background: #fff;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 105px;
-    90px;
+    padding: 105px, 90px;
 }
 
 /* about style */
